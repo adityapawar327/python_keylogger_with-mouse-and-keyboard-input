@@ -1,0 +1,15 @@
+Mouse Pressed at (621, 957) with Button.left
+Mouse Released at (621, 957) with Button.left
+Special key pressed: Key.backspace
+Mouse Pressed at (152, 109) with Button.left
+Mouse Released at (152, 109) with Button.left
+Key pressed: h
+Special key pressed: Key.cmd
+Special key pressed: Key.cmd
+Key pressed: d
+Mouse Pressed at (0, 1079) with Button.left
+Mouse Released at (0, 1079) with Button.left
+Mouse Pressed at (0, 1016) with Button.left
+Mouse Released at (0, 1016) with Button.left
+Mouse Pressed at (79, 945) with Button.left
+Mouse Released at (79, 945) with Button.left
